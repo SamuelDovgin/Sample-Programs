@@ -9,6 +9,7 @@ public class HW01 {
     {
         int [] array = new int [5];
         array[3]=9;
+        array[3]=1;
         System.out.println(sum(array));
     }
 
